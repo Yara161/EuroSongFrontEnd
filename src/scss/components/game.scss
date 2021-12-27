@@ -1,0 +1,41 @@
+.title{
+    text-align: center;
+    font-size:40px;
+}
+.songsgame{
+    display: flex;
+    justify-content: center;
+   // align-content: center;
+    text-align: center;
+}
+.song{
+    height: 400px;
+    width: 400px;
+}
+.arrow{
+    height: 50px;
+    display: block;
+    margin-top: 200px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.pointsbuttons
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.points{
+    margin: 25px;
+}
+.buttonpoints{
+    height: 35px;
+    background-color: $primary-white;
+}
+.title2{
+    text-align: center;
+    font-size:30px;
+}
+
